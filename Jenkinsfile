@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent kamy
 
     stages {
         stage('continuous download') {
