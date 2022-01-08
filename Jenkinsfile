@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent many
 
     stages {
         stage('continuous download') {
